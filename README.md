@@ -5,4 +5,7 @@ changed something
 
 Еще одна строка
 
+
 let there be conflict
+another conflict
+
