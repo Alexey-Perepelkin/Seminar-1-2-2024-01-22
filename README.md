@@ -4,3 +4,5 @@ changed something
 
 
 Еще одна строка
+
+another conflict
